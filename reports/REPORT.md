@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Đinh Tiến Mạnh - 2A202602458  **Commit:** f853a6b  **Điểm tự động (`make grade`):** 84.0 / 88 (Public: 84.0 / 84, Hidden: 0.0 / 4)
+**Họ tên / nhóm:** Đinh Tiến Mạnh - 2A202602458  **Commit:** 7519d03  **Điểm tự động (`make grade`):** 84.0 / 88 (Public: 84.0 / 84, Hidden: 0.0 / 4)
 
 > Mọi nhận định phải có số. Dán số từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`.
 
